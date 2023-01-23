@@ -9,7 +9,6 @@ const Header = (props) => {
     <Fragment>
       <header className={classes.header}>
         <h1>Meals</h1>
-        <p>bla</p>
         <HeaderCartButton />
       </header>
       <div className={classes["main-image"]}>
